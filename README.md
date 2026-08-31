@@ -1,6 +1,5 @@
 # 재활용품 이미지 기반 VQA 모델 개발
 
----
 
 ### 데이터 셋
 4지선다 Visual Question-Answering 객관식 문제 
@@ -11,8 +10,11 @@
 
 ### 개발 프로세스
 a. Model Selection: task에 특화된 모델 선택하기
+
 b. Fine-tuning: 사전학습된 VQA 모델을 데이터 셋에 맞게 학습하기
+
 c. Prompt Engineering: 추론 성능 향상을 위한 프롬프트 설계하기
+
 d. Inference & Evaluation: 학습된 모델을 활용하여 test 셋에 대한 추론 및 성능 평가하기
 
 ---
