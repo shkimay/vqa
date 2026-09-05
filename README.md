@@ -65,7 +65,7 @@ Image + Question + Choices를 모델의 input으로 사용하여 정답 choice�
 ---
 
 ### Result
-Leaderboard score: **0.84627** 
+Leaderboard score: **0.8569** 
 
 ---
 
